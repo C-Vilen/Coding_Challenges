@@ -10,10 +10,12 @@ public class BasicProgrammingOne {
         for (int i = 0; i < N; i++) { 
             array[i] = sc.nextInt();
         }
-        if (t == 1) {
+        switch(t){
+            case 1:
             System.out.println(7);
-        }
-        if(t == 2) {
+            break;
+
+            case 2:
             if (array[0] > array[1]) {
                 System.out.println("Bigger");
             } else if (array[0] == array[1]) {
@@ -21,14 +23,19 @@ public class BasicProgrammingOne {
             } else {
                 System.out.println("Smaller");
             }
-        }
-        if (t == 3) {
-            System.out.println(array[1]);
-        }
-        if (t == 4) {
+            break;
+
+            case 3:
+            int medianArray[] = {array[0], array[1], array[2]};
+            Arrays.sort(medianArray);
+            System.out.println(medianArray[1]);
+            break;
+
+            case 4:
             System.out.println(Arrays.stream(array).sum());
-        }
-        if (t == 5) {
+            break;
+
+            case 5:
             int output = 0;
             for (Integer integer : array) {
                 if(integer% 2 == 0) {
@@ -36,17 +43,19 @@ public class BasicProgrammingOne {
                 }
             }
             System.out.println(output);
-        }
-        if (t == 6) {
+            break;
+
+            case 6:
             char[] outputWord = new char[N];
             for (int i = 0; i < array.length; i++) {
                 outputWord[i] = (char)(array[i]%26 + 97);
             } 
             System.out.println(new String(outputWord));
-        }
-        if (t == 7) {
+            break;
+
+            case 7:
             int index = 0;
-            while (index < N) {
+            while (true) {
                 index = array[index];
                 if (index >= N) {
                     System.out.println("Out");
@@ -59,6 +68,8 @@ public class BasicProgrammingOne {
                     break;
                 }
             }
+            break;
+
         }
         sc.close();
     }
