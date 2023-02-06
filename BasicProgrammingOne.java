@@ -1,5 +1,7 @@
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.Scanner;
+import java.util.Set;
 
 public class BasicProgrammingOne {
     public static void main(String[] args) {
@@ -32,17 +34,22 @@ public class BasicProgrammingOne {
             break;
 
             case 4:
-            System.out.println(Arrays.stream(array).sum());
+            Long outputSum4 = (long) 0;
+            for (int i = 0; i < array.length; i++) {
+                outputSum4 += array[i];
+            }
+            System.out.println(outputSum4);
             break;
 
             case 5:
-            int output = 0;
-            for (Integer integer : array) {
-                if(integer% 2 == 0) {
-                    output += integer;
+            Long outputSum5 = (long) 0;
+            for (int i = 0; i < array.length; i++) {
+                int nextInt = array[i];
+                if(nextInt% 2 == 0) {
+                    outputSum5 += nextInt;
                 }
             }
-            System.out.println(output);
+            System.out.println(outputSum5);
             break;
 
             case 6:
@@ -54,19 +61,21 @@ public class BasicProgrammingOne {
             break;
 
             case 7:
+            Set<Integer> SetOfInts = new HashSet<>();
             int index = 0;
-            while (true) {
+            while (N-1 >= index && index >= 0 ) {
                 index = array[index];
-                if (index >= N) {
+                if (index > N-1) {
                     System.out.println("Out");
                     break;
                 } else if (index == N-1) {
                     System.out.println("Done");
                     break;
-                } else {
+                } else if (SetOfInts.contains(index)){
                     System.out.println("Cyclic");
                     break;
                 }
+                SetOfInts.add(index);
             }
             break;
 
