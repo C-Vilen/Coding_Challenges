@@ -16,4 +16,5 @@ This is a repository of my solutions to various problems and coding challenges. 
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./LeetCode/Java/RomanToInteger.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./LeetCode/Java/LongestCommonPrefix.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./LeetCode/Java/ValidParentheses.java)|Easy|
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|[Java](LeetCode\Java\mergeStringsAlternately.java)|Easy|
