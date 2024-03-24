@@ -16,6 +16,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./LeetCode/Java/RomanToInteger.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./LeetCode/Java/LongestCommonPrefix.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./LeetCode/Java/ValidParentheses.java)|Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](./LeetCode/Java/reverseVowelsofaString.java)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./LeetCode/Java/CanPlaceFlowers.java)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./LeetCode/Java/KidsWithTheGreatestNumberOfCandies.java)|Easy|
