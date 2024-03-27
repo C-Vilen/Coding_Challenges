@@ -20,6 +20,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./LeetCode/Java/productOfArrayExceptSelf.java)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Java](./LeetCode/Java/increasingTripletSubsequence.java)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](./LeetCode/Java/reverseVowelsofaString.java)|Easy|
+|443|[String Compression](https://leetcode.com/problems/string-compression/)|[Java](./LeetCode/Java/stringCompression.java)|Medium|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./LeetCode/Java/CanPlaceFlowers.java)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./LeetCode/Java/KidsWithTheGreatestNumberOfCandies.java)|Easy|
