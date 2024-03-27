@@ -18,6 +18,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./LeetCode/Java/ValidParentheses.java)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./LeetCode/Java/reverseWordsInAString.java)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./LeetCode/Java/productOfArrayExceptSelf.java)|Medium|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./LeetCode/Java/moveZeroes.java)|Easy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Java](./LeetCode/Java/increasingTripletSubsequence.java)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](./LeetCode/Java/reverseVowelsofaString.java)|Easy|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Java](./LeetCode/Java/stringCompression.java)|Medium|
