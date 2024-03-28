@@ -21,6 +21,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./LeetCode/Java/moveZeroes.java)|Easy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Java](./LeetCode/Java/increasingTripletSubsequence.java)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Java](./LeetCode/Java/reverseVowelsofaString.java)|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./LeetCode/Java/isSubsequence.java)|Easy|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Java](./LeetCode/Java/stringCompression.java)|Medium|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./LeetCode/Java/CanPlaceFlowers.java)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
