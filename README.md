@@ -28,5 +28,6 @@ This is a repository of my solutions to various problems and coding challenges. 
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./LeetCode/Java/maximumAverageSubarrayI.java)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./LeetCode/Java/KidsWithTheGreatestNumberOfCandies.java)|Easy|
+|1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Java](./LeetCode/Java/maximumNumberOfVowelsInASubstringOfGivenLength.java)|Medium|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Java](./LeetCode/Java/maxNumberOfKSumPairs.java)|Medium|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|[Java](LeetCode\Java\mergeStringsAlternately.java)|Easy|
