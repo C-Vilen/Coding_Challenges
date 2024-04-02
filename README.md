@@ -32,4 +32,5 @@ This is a repository of my solutions to various problems and coding challenges. 
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Java](./LeetCode/Java/maximumNumberOfVowelsInASubstringOfGivenLength.java)|Medium|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Java](./LeetCode/Java/longestSubarrayOf1sAfterDeletingOneElement.java)|Medium|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Java](./LeetCode/Java/maxNumberOfKSumPairs.java)|Medium|
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Java](./LeetCode/Java/findTheHighestAltitude.java)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|[Java](LeetCode\Java\mergeStringsAlternately.java)|Easy|
