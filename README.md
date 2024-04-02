@@ -26,6 +26,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Java](./LeetCode/Java/stringCompression.java)|Medium|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./LeetCode/Java/CanPlaceFlowers.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./LeetCode/Java/maximumAverageSubarrayI.java)|Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](./LeetCode/Java/findPivotIndex.java)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./LeetCode/Java/maxConsecutiveOnesIII.java)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./LeetCode/Java/KidsWithTheGreatestNumberOfCandies.java)|Easy|
