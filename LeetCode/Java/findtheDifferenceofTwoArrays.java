@@ -40,6 +40,6 @@ public class findtheDifferenceofTwoArrays {
 
     public static void main(String[] args) {
         System.out.println("Example 1: " + findDifference(new int[]{1,2,3}, new int[]{2,4,6}) + " = [[1,3],[4,6]]");
-        System.out.println("Example 1: " + findDifference(new int[]{1,2,3,3}, new int[]{1,1,2,2}) + " = [[3],[]]");
+        System.out.println("Example 2: " + findDifference(new int[]{1,2,3,3}, new int[]{1,1,2,2}) + " = [[3],[]]");
     }
 }
