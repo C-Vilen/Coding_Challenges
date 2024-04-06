@@ -39,3 +39,4 @@ This is a repository of my solutions to various problems and coding challenges. 
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|[Java](LeetCode\Java\mergeStringsAlternately.java)|Easy|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|[Java](LeetCode\Java\findTheDifferenceOfTwoArrays.java)|Easy|
 |2352|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|[Java](LeetCode\Java\findTheDifferenceOfTwoArrays.java)|Easy|
+|2390|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[Java](LeetCode\Java\removingStarsFromAString.java)|Medium|
