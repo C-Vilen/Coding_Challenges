@@ -29,6 +29,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./LeetCode/Java/maximumAverageSubarrayI.java)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](./LeetCode/Java/findPivotIndex.java)|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](./LeetCode/Java/asteroidCollision.java)|Medium|
+|933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Java](./LeetCode/Java/numberOfRecentCalls.java)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./LeetCode/Java/maxConsecutiveOnesIII.java)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](./LeetCode/Java/uniqueNumberOfOccurrences.java)|Easy|
