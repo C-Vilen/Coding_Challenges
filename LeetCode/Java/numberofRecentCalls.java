@@ -13,8 +13,9 @@ public class numberofRecentCalls {
     // Runtime 20ms beats 90.34%, Memory 54.09 MB beats 59.14%
     class RecentCounter {
         private Queue<Integer> queue;
+        
         public RecentCounter() {
-        this.queue = new LinkedList<>();
+            this.queue = new LinkedList<>();    
         }
         
         public int ping(int t) {
