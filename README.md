@@ -27,6 +27,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Java](./LeetCode/Java/stringCompression.java)|Medium|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./LeetCode/Java/CanPlaceFlowers.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./LeetCode/Java/maximumAverageSubarrayI.java)|Easy|
+|649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Java](./LeetCode/Java/dota2Senate.java)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](./LeetCode/Java/findPivotIndex.java)|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](./LeetCode/Java/asteroidCollision.java)|Medium|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Java](./LeetCode/Java/numberOfRecentCalls.java)|Easy|
