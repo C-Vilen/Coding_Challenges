@@ -18,6 +18,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./LeetCode/Java/LongestCommonPrefix.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./LeetCode/Java/ValidParentheses.java)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./LeetCode/Java/reverseWordsInAString.java)|Medium|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./LeetCode/Java/reverseLinkedList.java)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./LeetCode/Java/productOfArrayExceptSelf.java)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./LeetCode/Java/moveZeroes.java)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./LeetCode/Java/oddEvenLinkedList.java)|Medium|
