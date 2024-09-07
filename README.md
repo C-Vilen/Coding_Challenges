@@ -2,13 +2,12 @@
 This is a repository of my solutions to various problems and coding challenges. I will be using this repository to keep track of my progress and to showcase my work. 
 
 ## Table of Contents
-- [Kattis](#kattis)
-    - [Java Solutions](#kattis/Java)
-    - [F# Solutions](#kattis/F#)
+- [Kattis](./Kattis)
+    - [Java Solutions](./Kattis/Java)
 
-- [LeetCode](#leetcode)
-    - [Java Solutions](#leetcode/Java)
-    - [C# Solutions](#leetcode/C#)
+- [LeetCode](./LeetCode)
+    - [Java Solutions](./LeetCode/Java)
+    - [C# Solutions](./LeetCode/CSharp)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -18,7 +17,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./LeetCode/Java/RomanToInteger.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./LeetCode/Java/LongestCommonPrefix.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./LeetCode/Java/ValidParentheses.java)|Easy|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./LeetCode/Java/maximumDepthOfBinaryTree.java), [C#](./LeetCode/C#/maximumDepthofBinaryTree.cs)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./LeetCode/Java/maximumDepthOfBinaryTree.java), [C#](./LeetCode/CSharp/maximumDepthofBinaryTree.cs)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./LeetCode/Java/reverseWordsInAString.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./LeetCode/Java/reverseLinkedList.java)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./LeetCode/Java/productOfArrayExceptSelf.java)|Medium|
