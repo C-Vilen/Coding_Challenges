@@ -5,4 +5,4 @@ Return the result table in any order.
 */
 SELECT c.NAME
 FROM Customer c
-WHERE referee_id <> 2 OR referee_id IS NULL 
+WHERE referee_id <> 2 OR referee_id IS NULL;

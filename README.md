@@ -6,8 +6,9 @@ This is a repository of my solutions to various problems and coding challenges. 
     - [Java Solutions](./Kattis/Java)
 
 - [LeetCode](./LeetCode)
-    - [Java Solutions](./LeetCode/Java)
     - [C# Solutions](./LeetCode/CSharp)
+    - [Java Solutions](./LeetCode/Java)
+    - [T-SQL Solutions](./LeetCode/SQL)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -39,6 +40,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Java](./LeetCode/Java/numberOfRecentCalls.java)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./LeetCode/Java/maxConsecutiveOnesIII.java)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
+|1148|[Article Views I](https://leetcode.com/problems/article-views-i/)|[T-SQL](./LeetCode/SQL/articleViewsI.sql)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](./LeetCode/Java/uniqueNumberOfOccurrences.java)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./LeetCode/Java/KidsWithTheGreatestNumberOfCandies.java)|Easy|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Java](./LeetCode/Java/maximumNumberOfVowelsInASubstringOfGivenLength.java)|Medium|
