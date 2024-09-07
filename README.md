@@ -28,6 +28,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./LeetCode/Java/isSubsequence.java)|Easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Java](./LeetCode/Java/decodeString.java)|Medium|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Java](./LeetCode/Java/stringCompression.java)|Medium|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[T-SQL](./LeetCode/SQL/findCustomerReferee.sql)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./LeetCode/Java/CanPlaceFlowers.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./LeetCode/Java/maximumAverageSubarrayI.java)|Easy|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Java](./LeetCode/Java/dota2Senate.java)|Medium|
@@ -44,7 +45,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Java](./LeetCode/Java/determineIfTwoStringsAreClose.java)|Medium|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Java](./LeetCode/Java/maxNumberOfKSumPairs.java)|Medium|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Java](./LeetCode/Java/findTheHighestAltitude.java)|Easy|
-|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[SQL](./LeetCode/SQL/recyclableAndLowFatProducts.sql)|Easy|
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[T-SQL](./LeetCode/SQL/recyclableAndLowFatProducts.sql)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|[Java](LeetCode\Java\mergeStringsAlternately.java)|Easy|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Java](LeetCode\Java\deleteTheMiddleNodeOfALinkedList.java)|Medium|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Java](LeetCode/Java/maximumTwinSumofaLinkedList.java)|Medium|
