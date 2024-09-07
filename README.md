@@ -8,6 +8,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 
 - [LeetCode](#leetcode)
     - [Java Solutions](#leetcode/Java)
+    - [C# Solutions](#leetcode/C#)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -17,7 +18,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./LeetCode/Java/RomanToInteger.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./LeetCode/Java/LongestCommonPrefix.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./LeetCode/Java/ValidParentheses.java)|Easy|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./LeetCode/Java/maximumDepthOfBinaryTree.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./LeetCode/Java/maximumDepthOfBinaryTree.java), [C#](./LeetCode/C#/maximumDepthofBinaryTree.cs)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./LeetCode/Java/reverseWordsInAString.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./LeetCode/Java/reverseLinkedList.java)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./LeetCode/Java/productOfArrayExceptSelf.java)|Medium|
@@ -33,6 +34,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Java](./LeetCode/Java/dota2Senate.java)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Java](./LeetCode/Java/findPivotIndex.java)|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](./LeetCode/Java/asteroidCollision.java)|Medium|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./LeetCode/Java/leafSimilarTrees.java)|Easy|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Java](./LeetCode/Java/numberOfRecentCalls.java)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./LeetCode/Java/maxConsecutiveOnesIII.java)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
