@@ -44,6 +44,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Java](./LeetCode/Java/determineIfTwoStringsAreClose.java)|Medium|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Java](./LeetCode/Java/maxNumberOfKSumPairs.java)|Medium|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Java](./LeetCode/Java/findTheHighestAltitude.java)|Easy|
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[SQL](./LeetCode/SQL/recyclableAndLowFatProducts.sql)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|[Java](LeetCode\Java\mergeStringsAlternately.java)|Easy|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Java](LeetCode\Java\deleteTheMiddleNodeOfALinkedList.java)|Medium|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Java](LeetCode/Java/maximumTwinSumofaLinkedList.java)|Medium|
