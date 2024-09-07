@@ -29,6 +29,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Java](./LeetCode/Java/decodeString.java)|Medium|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[Java](./LeetCode/Java/stringCompression.java)|Medium|
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[T-SQL](./LeetCode/SQL/findCustomerReferee.sql)|Easy|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)|[T-SQL](./LeetCode/SQL/bigCountries.sql)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./LeetCode/Java/CanPlaceFlowers.java)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./LeetCode/Java/maximumAverageSubarrayI.java)|Easy|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[Java](./LeetCode/Java/dota2Senate.java)|Medium|
