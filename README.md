@@ -39,6 +39,7 @@ This is a repository of my solutions to various problems and coding challenges. 
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./LeetCode/Java/leafSimilarTrees.java)|Easy|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Java](./LeetCode/Java/numberOfRecentCalls.java)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./LeetCode/Java/maxConsecutiveOnesIII.java)|Medium|
+|1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)|[T-SQL](./LeetCode/SQL/productSalesAnalysisI.sql)|Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Java](./LeetCode/Java/GreatestCommonDivisorOfStrings.java)|Easy|
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/)|[T-SQL](./LeetCode/SQL/articleViewsI.sql)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](./LeetCode/Java/uniqueNumberOfOccurrences.java)|Easy|
