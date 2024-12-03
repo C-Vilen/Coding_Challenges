@@ -8,7 +8,7 @@ import java.util.TreeMap;
 
 public class dayOnePartOne {
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("AdventOfCode2024/Java/DayOne/PartOne/input-day-one.txt");
+        File file = new File("AdventOfCode2024/Java/DayOne/input-day-one.txt");
         Scanner scanner = new Scanner(file);
         TreeMap<Integer, Integer> leftNums = new TreeMap<>();
         TreeMap<Integer, Integer> rightNums = new TreeMap<>();
