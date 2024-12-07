@@ -13,28 +13,21 @@ public class dayTwoPartOne {
         while (scanner.hasNextLine()) {
             String input = scanner.nextLine();
             int[] arr = Arrays.stream(input.split("\s+")).mapToInt(Integer::parseInt).toArray();
-            int prevNum = arr[0];
-            boolean safe = true;
-            boolean positiveNums = false;
-            if (prevNum < arr[1]) positiveNums = true;
+            boolean safe = true; 
+
             for (int i = 1; i < arr.length; i++) {
-                int nextNum = arr[i];
-                if (positiveNums) {
-                    if (nextNum < prevNum | (nextNum - prevNum) < 1 | (nextNum - prevNum) > 3) {
-                        safe = false;
-                        break;
-                    }
-                    prevNum = nextNum;
-                }
-                if (!positiveNums) {
-                    if (nextNum > prevNum | (prevNum - nextNum) < 1 | (prevNum - nextNum) > 3) {
-                        safe = false;
-                        break;
-                    }
-                    prevNum = nextNum;
+                int dif = arr[i] - arr[i-1];
+                if (Math.abs(dif) < 1 || 
+                    Math.abs(dif) > 3 || 
+                    (dif > 0 && i > 1 && arr[i-1] < arr[i-2]) ||
+                    (dif < 0 && i > 1 && arr[i-1] > arr[i-2])) {
+                    safe = false;
+                    break;                    
                 }
             }
-            if(safe) output += 1;
+            if (safe) {
+                output +=1;
+            }
         }
         scanner.close();
         System.out.println(output);
