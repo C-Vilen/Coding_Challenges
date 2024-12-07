@@ -6,11 +6,11 @@ This is a repository of my solutions to various problems and coding challenges. 
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|1.1|[Day 1 Part 1](https://adventofcode.com/2024/day/1#part1)|[Java](./AdventOfCode2024/Java/DayOne/PartOne/dayOnePartOne.java)|
-|1.2|[Day 1 Part 2](https://adventofcode.com/2024/day/1#part2)|[Java](./AdventOfCode2024/Java/DayOne/PartTwo/dayOnePartTwo.java)|
-|2.1|[Day 2 Part 1](https://adventofcode.com/2024/day/2#part1)|[Java](./AdventOfCode2024/Java/DayTwo/PartOne/dayTwoPartOne.java)|
-|2.2|[Day 2 Part 2](https://adventofcode.com/2024/day/2#part2)|[Java](./AdventOfCode2024/Java/DayTwo/PartTwo/dayTwoPartTwo.java)|
-|3.1|[Day 3 Part 1](https://adventofcode.com/2024/day/3#part1)|[Java](./AdventOfCode2024/Java/DayThree/PartOne/dayThreePartOne.java)|
+|1.1|[Day 1 Part 1](https://adventofcode.com/2024/day/1#part1)|[Java](./AdventOfCode2024/Java/Day1/Part1/dayOnePartOne.java)|
+|1.2|[Day 1 Part 2](https://adventofcode.com/2024/day/1#part2)|[Java](./AdventOfCode2024/Java/Day1/Part2/dayOnePartTwo.java)|
+|2.1|[Day 2 Part 1](https://adventofcode.com/2024/day/2#part1)|[Java](./AdventOfCode2024/Java/Day2/Part1/dayTwoPartOne.java)|
+|2.2|[Day 2 Part 2](https://adventofcode.com/2024/day/2#part2)|[Java](./AdventOfCode2024/Java/Day2/Part2/dayTwoPartTwo.java)|
+|3.1|[Day 3 Part 1](https://adventofcode.com/2024/day/3#part1)|[Java](./AdventOfCode2024/Java/Day3/Part1/dayThreePartOne.java)|
 
 - [Kattis](./Kattis)
     - [Java Solutions](./Kattis/Java)
