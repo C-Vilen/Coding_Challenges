@@ -2,6 +2,16 @@
 This is a repository of my solutions to various problems and coding challenges. I will be using this repository to keep track of my progress and to showcase my work. 
 
 ## Table of Contents
+- [Advent Of Code 2024](./AdventOfCode2024)
+
+| # | Title | Solution |
+|---| ----- | -------- |
+|1.1|[Day 1 Part 1](https://adventofcode.com/2024/day/1#part1)|[Java](./AdventOfCode2024/Java/DayOne/PartOne/dayOnePartOne.java)|
+|1.2|[Day 1 Part 2](https://adventofcode.com/2024/day/1#part2)|[Java](./AdventOfCode2024/Java/DayOne/PartTwo/dayOnePartTwo.java)|
+|2.1|[Day 2 Part 1](https://adventofcode.com/2024/day/2#part1)|[Java](./AdventOfCode2024/Java/DayTwo/PartOne/dayTwoPartOne.java)|
+|2.2|[Day 2 Part 2](https://adventofcode.com/2024/day/2#part2)|[Java](./AdventOfCode2024/Java/DayTwo/PartTwo/dayTwoPartTwo.java)|
+|3.1|[Day 3 Part 1](https://adventofcode.com/2024/day/3#part1)|[Java](./AdventOfCode2024/Java/DayThree/PartOne/dayThreePartOne.java)|
+
 - [Kattis](./Kattis)
     - [Java Solutions](./Kattis/Java)
 
